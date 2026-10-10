@@ -125,7 +125,8 @@ Blinkit-Power-BI-Dashboard/
 
 ## 🙋 Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Bhakti Atkale**
+
+[LinkedIn](https://www.linkedin.com/in/bhakti-atkale-9ab267293/) · [GitHub](https://github.com/bhaktiatkale27)
 
 *Project completed as part of the Innomatics Technology Hub data analytics program.*
