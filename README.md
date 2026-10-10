@@ -2,6 +2,12 @@
 
 An interactive Power BI dashboard that analyzes **product performance, outlet operations, sales trends and customer satisfaction** for Blinkit, one of India's leading quick-commerce companies.
 
+## 📌 Project Overview
+
+This project analyzes Blinkit's grocery sales data using **Microsoft Power BI**. It presents interactive dashboards to explore sales performance, product categories, outlet characteristics, and item ratings.
+
+This is a **group project** developed by **Prachi Honrao** and **Bhakti Atkale**.
+
 ---
 
 ## 📌 Business Problem
@@ -18,6 +24,8 @@ Blinkit's management identified these challenges:
 `Power BI` · `Power Query` · `DAX` · `Data Modeling (Star Schema)` · `Data Cleaning` · `Data Visualization`
 
 ---
+
+
 
 ## 🗂 Dataset
 
@@ -76,7 +84,20 @@ Blinkit Grocery dataset with **8,523 sales records**, 16 item types, 10 outlets 
 | Average Years of Operation | **5.7 years** (reference year 2022) |
 
 > Profit Margin % and Sales vs Target are not included because the dataset has no cost or target data.
+## 📊 Dashboard Pages
 
+### Main Dashboard
+![Main Dashboard](Blinkit-Power-BI-Dashboard/assets/Main%20Dashboard.png)
+
+Includes KPI cards, sales by outlet tier and type, sales by establishment year and item type, fat-content distribution, a Top 10 Items by Sales table, and an item visibility-versus-sales scatter plot.
+
+### Outlet Analysis
+![Outlet Analysis](Blinkit-Power-BI-Dashboard/assets/Outlet%20Analysis.png)
+
+Compares outlet performance, including sales by location tier and average sales by outlet size, along with key performance indicators.
+
+### Item Analysis
+![Item Analysis](Blinkit-Power-BI-Dashboard/assets/Item%20Analysis.png)
 ## 💡 Key Insights
 
 1. **Top categories:** Fruits & Vegetables (14.8%) and Snack Foods (14.6%) lead, followed by Household (11.3%) and Frozen Foods (9.9%). The top 4 categories make up about 51% of sales.
@@ -123,10 +144,9 @@ Blinkit-Power-BI-Dashboard/
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 3. If prompted, update the data source paths to the files in `data/`
 
-## 🙋 Author
+## 👥 Team Members
 
-**Bhakti Atkale**
-
-[LinkedIn](https://www.linkedin.com/in/bhakti-atkale-9ab267293/) · [GitHub](https://github.com/bhaktiatkale27)
-
-*Project completed as part of the Innomatics Technology Hub data analytics program.*
+- **Prachi Honrao**
+- **Bhakti Atkale**
+- 
+  *Created as a collaborative project to practice data preparation, business analysis, and interactive dashboard development using Power BI.*
