@@ -84,20 +84,22 @@ Blinkit Grocery dataset with **8,523 sales records**, 16 item types, 10 outlets 
 | Average Years of Operation | **5.7 years** (reference year 2022) |
 
 > Profit Margin % and Sales vs Target are not included because the dataset has no cost or target data.
-## 📊 Dashboard Pages
 
 ### Main Dashboard
-![Main Dashboard](assets/Main Dashboard.png)
+![Main Dashboard](https://raw.githubusercontent.com/bhaktiatkale27/Blinkit-Power-BI-Dashboard/main/assets/Main%20Dashboard.png)
 
 Includes KPI cards, sales by outlet tier and type, sales by establishment year and item type, fat-content distribution, a Top 10 Items by Sales table, and an item visibility-versus-sales scatter plot.
 
 ### Outlet Analysis
-![Outlet Analysis](Blinkit-Power-BI-Dashboard/assets/Outlet%20Analysis.png)
+![Outlet Analysis](https://raw.githubusercontent.com/bhaktiatkale27/Blinkit-Power-BI-Dashboard/main/assets/Outlet%20Analysis.png)
 
 Compares outlet performance, including sales by location tier and average sales by outlet size, along with key performance indicators.
 
 ### Item Analysis
-![Item Analysis](Blinkit-Power-BI-Dashboard/assets/Item%20Analysis.png)
+![Item Analysis](https://raw.githubusercontent.com/bhaktiatkale27/Blinkit-Power-BI-Dashboard/main/assets/Item%20Analysis.png)
+
+Explores item types, item counts, sales, fat-content distribution, average item ratings, and item visibility versus sales.
+
 ## 💡 Key Insights
 
 1. **Top categories:** Fruits & Vegetables (14.8%) and Snack Foods (14.6%) lead, followed by Household (11.3%) and Frozen Foods (9.9%). The top 4 categories make up about 51% of sales.
