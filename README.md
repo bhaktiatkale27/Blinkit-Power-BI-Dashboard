@@ -87,7 +87,7 @@ Blinkit Grocery dataset with **8,523 sales records**, 16 item types, 10 outlets 
 ## 📊 Dashboard Pages
 
 ### Main Dashboard
-![Main Dashboard](Blinkit-Power-BI-Dashboard/assets/Main%20Dashboard.png)
+![Main Dashboard](assets/Main Dashboard.png)
 
 Includes KPI cards, sales by outlet tier and type, sales by establishment year and item type, fat-content distribution, a Top 10 Items by Sales table, and an item visibility-versus-sales scatter plot.
 
